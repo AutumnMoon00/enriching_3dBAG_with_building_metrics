@@ -1,0 +1,1 @@
+g++ -O2 -g CMakeFiles/2.dir/src/everything.cpp.o CMakeFiles/2.dir/src/geomtools.cpp.o CMakeFiles/2.dir/src/main.cpp.o -o 2  /usr/lib/x86_64-linux-gnu/libgmpxx.so /usr/lib/x86_64-linux-gnu/libmpfr.so /usr/lib/x86_64-linux-gnu/libgmp.so 

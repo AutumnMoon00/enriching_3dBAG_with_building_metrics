@@ -1,0 +1,3 @@
+/mnt/d/Geomatics/Q3/GEO1004 3D Modelling/assignments/2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/Geomatics/Q3/GEO1004 3D Modelling/assignments/2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/Geomatics/Q3/GEO1004 3D Modelling/assignments/2/cmake-build-debug/CMakeFiles/2.dir
