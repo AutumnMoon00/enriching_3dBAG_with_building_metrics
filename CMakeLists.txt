@@ -29,17 +29,9 @@ include(CGAL_Eigen3_support)
 include_directories( ${CMAKE_SOURCE_DIR}/include/ )
 
 FILE(GLOB SRC_FILES src/*.cpp)
-add_executable(2 ${SRC_FILES} src/main.cpp src/everything.cpp)
-
-
-#add_executable(2 main.cpp)
+add_executable(2 ${SRC_FILES})
 
 find_package( CGAL REQUIRED )
-#find_package(Eigen3 REQUIRED)
 find_package(Eigen3 3.1.0 QUIET)
-#find_package( CGAL Eigen3_support )
 
 target_link_libraries(${PROJECT_NAME} CGAL::CGAL CGAL::Eigen3_support)
-
-#target_link_libraries(${PROJECT_NAME} CGAL::Eigen3_support )
-
